@@ -2,6 +2,7 @@
   "name": "app_chat",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tan22130248.github.io/chat",
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
     "@testing-library/dom": "^10.4.1",
