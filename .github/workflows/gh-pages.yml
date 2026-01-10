@@ -20,7 +20,10 @@ jobs:
         run: npm ci
 
       - name: Build and copy to docs
-        run: npm run build
+        run: |
+          npm run build
+          mkdir -p docs
+          cp -r build/* docs/
 
       - name: Commit and push docs folder
         run: |
