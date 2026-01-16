@@ -35,7 +35,7 @@ export default function LoginScreen({ onRegisterClick }: LoginScreenProps) {
         <div className="login-container">
             <div className="login-header">
                 <img src={logo} className="login-logo" alt="logo" />
-                <h2 className="login-title">App-Chat</h2>
+                <h2 className="login-title">App-Chat 2</h2>
             </div>
 
             {statusMsg && (
