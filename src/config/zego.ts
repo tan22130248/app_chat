@@ -1,0 +1,2 @@
+export const ZEGO_APP_ID = 184868528;
+export const ZEGO_SERVER_SECRET = "d73b2392c2e475057a9db358eca8d03c";
